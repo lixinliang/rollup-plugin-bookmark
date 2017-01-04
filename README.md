@@ -14,7 +14,7 @@ import bookmark from 'rollup-plugin-bookmark';
 rollup({
     entry: 'main.js',
     plugins: [
-        ookmark()
+        bookmark()
     ]
 }).then(...)
 ```
