@@ -3,7 +3,7 @@ module.exports = function bookmark () {
         name : 'bookmark',
         transformBundle : function ( code ) {
             return {
-                code : 'javascript:!function(){' + code + '}()';
+                code : 'javascript:!function(){' + code + '}()',
             };
         },
     };
