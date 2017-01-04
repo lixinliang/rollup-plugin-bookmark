@@ -1,0 +1,25 @@
+{
+  "name": "rollup-plugin-bookmark",
+  "version": "0.0.1",
+  "description": "Rollup plugin to bundle js as bookmark.",
+  "main": "./rollup-plugin-bookmark.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micro-app/micro-app.git"
+  },
+  "keywords": [
+    "plugin",
+    "rollup",
+    "bookmark"
+  ],
+  "author": {
+    "name": "lixinliang",
+    "url": "https://github.com/lixinliang"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lixinliang/rollup-plugin-bookmark/issues"
+  },
+  "homepage": "https://github.com/lixinliang/rollup-plugin-bookmark#readme"
+}
