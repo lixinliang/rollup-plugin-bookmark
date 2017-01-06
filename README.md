@@ -12,11 +12,32 @@ import { rollup } from 'rollup';
 import bookmark from 'rollup-plugin-bookmark';
 
 rollup({
-    entry: 'main.js',
-    plugins: [
-        bookmark()
-    ]
-}).then(...)
+    entry : 'main.js',
+    plugins : [
+        bookmark(),
+    ],
+}).then(( bundle ) => {
+    bundle.write({
+        format : 'iife',
+        dest : 'dist.js',
+    });
+});
+```
+
+* Or
+
+```js
+import bookmark from 'rollup-plugin-bookmark';
+
+export default {
+    format : 'iife',
+    dest : 'dist.js',
+    entry : './src/index.js',
+    plugins : [
+        bookmark(),
+    ],
+};
+
 ```
 
 ## License
