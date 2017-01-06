@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-bookmark",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Rollup plugin to bundle js as bookmark.",
   "main": "./rollup-plugin-bookmark.js",
   "scripts": {},
