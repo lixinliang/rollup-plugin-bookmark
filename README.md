@@ -1,6 +1,7 @@
-[![npm](https://img.shields.io/npm/l/rollup-plugin-bookmark.svg?style=flat-square)](https://www.npmjs.org/package/rrollup-plugin-bookmark)
-[![npm](https://img.shields.io/npm/v/rollup-plugin-bookmark.svg?style=flat-square)](https://www.npmjs.org/package/rollup-plugin-bookmark)
-[![npm](https://img.shields.io/npm/dm/rollup-plugin-bookmark.svg?style=flat-square)](https://www.npmjs.org/package/rollup-plugin-bookmark)
+[![npm](https://img.shields.io/npm/l/rollup-plugin-bookmark.svg)](https://www.npmjs.org/package/rrollup-plugin-bookmark)
+[![npm](https://img.shields.io/npm/v/rollup-plugin-bookmark.svg)](https://www.npmjs.org/package/rollup-plugin-bookmark)
+[![npm](https://img.shields.io/npm/dm/rollup-plugin-bookmark.svg)](https://www.npmjs.org/package/rollup-plugin-bookmark)
+[![Twitter](https://img.shields.io/badge/twitter-@qq393464140-blue.svg)](http://twitter.com/qq393464140)
 
 # rollup-plugin-bookmark
 > Rollup plugin to bundle js as bookmark.
